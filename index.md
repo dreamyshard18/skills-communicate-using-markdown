@@ -9,3 +9,6 @@
 var Earth = "It is beautiful!";
 ```
 
+- [ ] Turn on GitHub pages
+- [ ] Create my account
+- [ ] Create repository
