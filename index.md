@@ -5,3 +5,7 @@
 
 ![Bunny](https://www.peta.org/wp-content/uploads/2021/04/rabbit-blue-background.jpg)
 
+``` javascript
+var Earth = "It is beautiful!";
+```
+
